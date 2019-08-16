@@ -55,3 +55,5 @@ To add a custom directory to your theme-gem, please edit the regexp in `jekyll-g
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
+[Gutenberg]: https://matejlatin.github.io/Gutenberg/
+[docs]: https://github.com/matejlatin/Gutenberg/wiki#base-sizes
